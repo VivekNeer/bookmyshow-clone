@@ -1,11 +1,20 @@
 ## 🎟️ BookMyShow Clone
 
+<p align="center">
+  <a href="https://bms-navy.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"></a>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk">
+</p>
+
+
 Welcome to the **BookMyShow Clone** — a movie and event booking platform built using **Next.js**, **Tailwind CSS**, and **Shadcn UI**. This project includes movie recommendations, upcoming stand-up shows, and a clean, responsive interface.  
 
 ✅ **Clerk Authentication**: Login and signup using Clerk are fully functional. Environment variables are already configured via Vercel for the live demo.
 
 ## 🚀 **Live Demo**
-[Visit the Live Website](https://your-live-website-link.vercel.app)  
+[Visit the Live Website](https://bms-navy.vercel.app)  
 
 ## 🛠️ **Tech Stack**
 - **Frontend:** Next.js 13, TypeScript  
